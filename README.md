@@ -10,6 +10,7 @@ This repository contains a shell script that installs Firefox and Chrome drivers
 
 # Executing the shell script
 * Bash or shell terminal
+
 `pip install selenium`
 
 `sudo ./seleniumDrivers-install`
