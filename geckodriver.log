@@ -1,0 +1,65 @@
+1496575397870	geckodriver	INFO	Listening on 127.0.0.1:55095
+1496575398936	geckodriver::marionette	INFO	Starting browser /usr/lib/firefox/firefox.sh with args ["-marionette"]
+
+(firefox:5650): GConf-WARNING **: Client failed to connect to the D-BUS daemon:
+Failed to connect to socket /tmp/dbus-WN5L916vIx: Connection refused
+
+(firefox:5650): dconf-CRITICAL **: unable to create file '/home/deepak/.cache/dconf/user': Permission denied.  dconf will not work properly.
+
+(firefox:5650): dconf-CRITICAL **: unable to create file '/home/deepak/.cache/dconf/user': Permission denied.  dconf will not work properly.
+
+(firefox:5650): dconf-CRITICAL **: unable to create file '/home/deepak/.cache/dconf/user': Permission denied.  dconf will not work properly.
+
+(firefox:5650): dconf-CRITICAL **: unable to create file '/home/deepak/.cache/dconf/user': Permission denied.  dconf will not work properly.
+
+(firefox:5650): dconf-CRITICAL **: unable to create file '/home/deepak/.cache/dconf/user': Permission denied.  dconf will not work properly.
+
+(firefox:5650): dconf-CRITICAL **: unable to create file '/home/deepak/.cache/dconf/user': Permission denied.  dconf will not work properly.
+
+(firefox:5650): dconf-CRITICAL **: unable to create file '/home/deepak/.cache/dconf/user': Permission denied.  dconf will not work properly.
+
+(firefox:5650): dconf-CRITICAL **: unable to create file '/home/deepak/.cache/dconf/user': Permission denied.  dconf will not work properly.
+
+(firefox:5650): dconf-CRITICAL **: unable to create file '/home/deepak/.cache/dconf/user': Permission denied.  dconf will not work properly.
+
+(firefox:5650): dconf-CRITICAL **: unable to create file '/home/deepak/.cache/dconf/user': Permission denied.  dconf will not work properly.
+
+(firefox:5650): dconf-CRITICAL **: unable to create file '/home/deepak/.cache/dconf/user': Permission denied.  dconf will not work properly.
+
+(firefox:5650): GConf-WARNING **: Client failed to connect to the D-BUS daemon:
+Failed to connect to socket /tmp/dbus-CL2SMm2yYA: Connection refused
+
+(firefox:5650): LIBDBUSMENU-GLIB-WARNING **: Unable to get session bus: Could not connect: Connection refused
+
+(firefox:5650): dconf-CRITICAL **: unable to create file '/home/deepak/.cache/dconf/user': Permission denied.  dconf will not work properly.
+
+(firefox:5650): dconf-CRITICAL **: unable to create file '/home/deepak/.cache/dconf/user': Permission denied.  dconf will not work properly.
+1496575416308	Marionette	INFO	Listening on port 37359
+
+(firefox:5650): GConf-WARNING **: Client failed to connect to the D-BUS daemon:
+Failed to connect to socket /tmp/dbus-3qR0GwrcLU: Connection refused
+
+(firefox:5650): dconf-CRITICAL **: unable to create file '/home/deepak/.cache/dconf/user': Permission denied.  dconf will not work properly.
+
+(firefox:5650): dconf-CRITICAL **: unable to create file '/home/deepak/.cache/dconf/user': Permission denied.  dconf will not work properly.
+
+(firefox:5650): dconf-CRITICAL **: unable to create file '/home/deepak/.cache/dconf/user': Permission denied.  dconf will not work properly.
+
+(firefox:5650): dconf-CRITICAL **: unable to create file '/home/deepak/.cache/dconf/user': Permission denied.  dconf will not work properly.
+1496575419478	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(firefox:5650): dconf-CRITICAL **: unable to create file '/home/deepak/.cache/dconf/user': Permission denied.  dconf will not work properly.
+
+(firefox:5650): dconf-CRITICAL **: unable to create file '/home/deepak/.cache/dconf/user': Permission denied.  dconf will not work properly.
+
+(firefox:5650): dconf-CRITICAL **: unable to create file '/home/deepak/.cache/dconf/user': Permission denied.  dconf will not work properly.
+
+(firefox:5650): dconf-CRITICAL **: unable to create file '/home/deepak/.cache/dconf/user': Permission denied.  dconf will not work properly.
+
+(firefox:5650): dconf-CRITICAL **: unable to create file '/home/deepak/.cache/dconf/user': Permission denied.  dconf will not work properly.
+
+(firefox:5650): dconf-CRITICAL **: unable to create file '/home/deepak/.cache/dconf/user': Permission denied.  dconf will not work properly.
+
+(firefox:5650): dconf-CRITICAL **: unable to create file '/home/deepak/.cache/dconf/user': Permission denied.  dconf will not work properly.
+
+(firefox:5650): dconf-CRITICAL **: unable to create file '/home/deepak/.cache/dconf/user': Permission denied.  dconf will not work properly.
